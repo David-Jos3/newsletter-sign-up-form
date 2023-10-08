@@ -1,5 +1,7 @@
 # Newsletter Sign-Up Form
 
+![Imagem da versão web](https://github.com/David0770/newsletter-sign-up-form/blob/main/Newletter-form-web.png)
+![Imagem da versão mobile](https://github.com/David0770/newsletter-sign-up-form/blob/main/Newletter-form-mobile.png)
 
 ## Descrição do Projeto
 
